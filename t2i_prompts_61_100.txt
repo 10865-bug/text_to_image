@@ -1,0 +1,41 @@
+# GenEval two-object prompts 61-100 (generation_prompts.txt lines 141-180).
+# 1-60 were already used.
+a photo of a book and a baseball bat.
+a photo of a horse and a train.
+a photo of a bench and a vase.
+a photo of a traffic light and a backpack.
+a photo of a sports ball and a cow.
+a photo of a computer mouse and a spoon.
+a photo of a tv and a bicycle.
+a photo of a bench and a snowboard.
+a photo of a toothbrush and a toilet.
+a photo of a person and an apple.
+a photo of a sink and a sports ball.
+a photo of a stop sign and a dog.
+a photo of a knife and a stop sign.
+a photo of a wine glass and a handbag.
+a photo of a bowl and a skis.
+a photo of a frisbee and an apple.
+a photo of a computer keyboard and a cell phone.
+a photo of a stop sign and a fork.
+a photo of a potted plant and a boat.
+a photo of a tv and a cell phone.
+a photo of a tie and a broccoli.
+a photo of a potted plant and a donut.
+a photo of a person and a sink.
+a photo of a couch and a snowboard.
+a photo of a fork and a baseball glove.
+a photo of an apple and a toothbrush.
+a photo of a bus and a baseball glove.
+a photo of a person and a stop sign.
+a photo of a carrot and a couch.
+a photo of a baseball bat and a bear.
+a photo of a fire hydrant and a train.
+a photo of a baseball glove and a carrot.
+a photo of a microwave and a bench.
+a photo of a cake and a stop sign.
+a photo of a car and a computer mouse.
+a photo of a suitcase and a dining table.
+a photo of a person and a traffic light.
+a photo of a cell phone and a horse.
+a photo of a baseball bat and a giraffe.

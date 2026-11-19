@@ -1,0 +1,22 @@
+# GenEval two-object prompts 41-60 (generation_prompts.txt lines 121-140).
+# 1-40 were already used in t2i_prompts_40.txt.
+a photo of a parking meter and a teddy bear.
+a photo of a tennis racket and a bicycle.
+a photo of a stop sign and a motorcycle.
+a photo of a fire hydrant and a tennis racket.
+a photo of a scissors and a sandwich.
+a photo of a pizza and a book.
+a photo of a giraffe and a computer mouse.
+a photo of a stop sign and a toaster.
+a photo of a computer mouse and a zebra.
+a photo of a chair and a bench.
+a photo of a tv and a carrot.
+a photo of a surfboard and a suitcase.
+a photo of a computer keyboard and a laptop.
+a photo of a computer keyboard and a microwave.
+a photo of a scissors and a bird.
+a photo of a person and a snowboard.
+a photo of a cow and a horse.
+a photo of a handbag and a refrigerator.
+a photo of a chair and a laptop.
+a photo of a toothbrush and a bench.
